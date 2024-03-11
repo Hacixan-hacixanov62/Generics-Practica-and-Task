@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Generics Practica and Task/1.0.0": {
+        "runtime": {
+          "Generics Practica and Task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Generics Practica and Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\C#\Generics Practica and Task\Generics Practica and Task\bin\Debug\net6.0\Generics Practica and Task.exe
+C:\C#\Generics Practica and Task\Generics Practica and Task\bin\Debug\net6.0\Generics Practica and Task.deps.json
+C:\C#\Generics Practica and Task\Generics Practica and Task\bin\Debug\net6.0\Generics Practica and Task.runtimeconfig.json
+C:\C#\Generics Practica and Task\Generics Practica and Task\bin\Debug\net6.0\Generics Practica and Task.dll
+C:\C#\Generics Practica and Task\Generics Practica and Task\bin\Debug\net6.0\Generics Practica and Task.pdb
+C:\C#\Generics Practica and Task\Generics Practica and Task\obj\Debug\net6.0\Generics Practica and Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Generics Practica and Task\Generics Practica and Task\obj\Debug\net6.0\Generics Practica and Task.AssemblyInfoInputs.cache
+C:\C#\Generics Practica and Task\Generics Practica and Task\obj\Debug\net6.0\Generics Practica and Task.AssemblyInfo.cs
+C:\C#\Generics Practica and Task\Generics Practica and Task\obj\Debug\net6.0\Generics Practica and Task.csproj.CoreCompileInputs.cache
+C:\C#\Generics Practica and Task\Generics Practica and Task\obj\Debug\net6.0\Generics Practica and Task.dll
+C:\C#\Generics Practica and Task\Generics Practica and Task\obj\Debug\net6.0\refint\Generics Practica and Task.dll
+C:\C#\Generics Practica and Task\Generics Practica and Task\obj\Debug\net6.0\Generics Practica and Task.pdb
+C:\C#\Generics Practica and Task\Generics Practica and Task\obj\Debug\net6.0\Generics Practica and Task.genruntimeconfig.cache
+C:\C#\Generics Practica and Task\Generics Practica and Task\obj\Debug\net6.0\ref\Generics Practica and Task.dll
